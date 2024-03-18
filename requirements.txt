@@ -1,0 +1,6 @@
+customtkinter
+pillow
+packaging
+email-validator
+pytest
+CTkMessagebox
